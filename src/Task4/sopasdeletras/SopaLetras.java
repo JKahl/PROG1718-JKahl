@@ -6,7 +6,7 @@ import java.util.regex.*;
  * Clase sopasdeletras que contiene los métodos que operarán la clase principal
  * adjunta al ejercicio.
  *
- * @author Javier Martos Ortega
+ * @author JKahl
  * @version 1.0
  */
 public class SopaLetras {
