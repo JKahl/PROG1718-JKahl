@@ -27,7 +27,7 @@ package Task5.simuladorvehiculos;
  * hasta el momento (litros).</li>
  * <li><strong>Número de vehículos</strong> con el <strong>motor encendido</strong> en el momento actual.</li>
  * </ul>
- * @author Javier
+ * @author JKahl
  * @version 1.0
  */
 
